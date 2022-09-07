@@ -4,3 +4,6 @@
 ### Chapter2. A human-in-the-loop system for sound event annotation
 * Code: https://github.com/bongjun/ised
 * Project page: https://www.bongjunkim.com/pages/projects/ised.html
+
+### Chapter3. Improving sound search using vocal imitation
+* audio embedding model: https://github.com/bongjun/M-VGGish
